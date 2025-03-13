@@ -1,0 +1,23 @@
+🔍 Project Highlights:
+1️⃣ Data Exploration & Insights
+📌 Conducted EDA to analyze passenger demographics, ticket classes, and survival distribution.
+📌 Used descriptive statistics, correlation heatmaps, and data visualizations to identify trends and patterns.
+2️⃣ Data Cleaning & Preprocessing
+📌 Handled missing values in features like Age, Cabin, and Embarked.
+📌 Encoded categorical variables (e.g., Gender, Embarked) for model compatibility.
+📌 Scaled numerical features for better performance in predictive models.
+3️⃣ Feature Engineering & Relationship Analysis
+📌 Explored relationships between Survival and key features like Gender, Class, Age, and Fare.
+📌 Created new features, such as family size, to enhance data insights.
+📌 Identified the impact of passenger class and gender on survival rates.
+4️⃣ Data Visualization & Insights
+📌 Used histograms, bar plots, box plots, and heatmaps to analyze data distributions.
+📌 Visualized survival rate differences across various groups (e.g., gender, class, age).
+📌 Highlighted patterns and anomalies in the dataset.
+💡 Key Takeaways:
+✅ Strengthened my data wrangling and EDA skills to extract meaningful insights.
+✅ Discovered how gender and class played a significant role in survival.
+✅ Learned the importance of handling missing values, feature selection, and data visualization in analytics.
+🛠 Tech Stack:
+🔹 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+✨ hashtag#DataAnalysis | hashtag#EDA | hashtag#TitanicDataset | hashtag#MachineLearning | hashtag#DataVisualization | hashtag#Python | hashtag#DataScience | hashtag#prodigyinfotech
